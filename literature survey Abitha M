@@ -1,1 +1,40 @@
+1)Food Calorie Measurement Using Deep Learning Neural	Network
 
+
+AUTHOR"S:
+1)Parisa Pouladzadeh -	University of Ottawa
+2)Sri Vijay Bharat Peddi - University of Ottawa
+3)Pallavi Kuhad -University of Ottawa
+4)Abdulsalam Yassine - Lakehead University
+
+
+Fitness and diet as well as a review of prior related work on ﬁtness and health applications was conferred in this chapter.This sub section gives an overview of importance of exercise and proper diet for maintaining a healthy body. Types of exercise and diet are disscussed as these will form the data sets in the propossed integrated ﬁtness and diet mobile application.
+Accroding to a study conducted by (WHO ,2016) at least two million of deaths per year are a result of being obese. The emergence and pervasiveness of smartphones and mobil devices has led to an increase in health and ﬁtness appications which possess an assortment of behavior change techniques such as managing and monitoring exercise, diet weight and sleep. This existing mobile apps used to promote healthy lifestyle are inadequate as they are either ﬁtness trackers or dietary applications.The application was developed using RAD within tha Design Science Research Methodology.
+
+2 . DEVELOPING NEUTRITION AND DIET EXPERT SYSTEM
+PROTOTYPE
+
+Author's:
+1)Halima Al-Alawi - Sulton Qaboos University 2)Balqees Al-Alawi-Sulton Qaboos University 3)Kamla Ali Al-Busaidi-sulton Qaboos University
+
+This research pepar aims to present the development of an export system prototype on nutrition and diet domain using rules- based system technique .The knowledge engineering process started by eliciting knowledge from domain expert from nutrition development in a local university and expert recommended website.Nutrition is getting food into the body from growth and energy ,and for keeping the body healthy and living
+,(Nordqvist,2009).There are seven major classes of nutrients:carbohydrates, fats,minerals,protein,vitamins,ﬁberand water(Nordqvist,2009;wikipedia,2013).Carbohydrates and protein supply 17 KJ approximately(4 kcal) of energy per gram,which fats provide 37 KJ (9kcal) per gram.most food contains a mixture of all or some of the seven nutrient class. Not enough or too much of a nutrient, or some nutrient may result in poor health (Nordqvist,2009).
+
+3.2022 Fitness Trends FROM Around the Globe
+
+
+Author's:
+1)Vanessa Martinez Kercher- Indiana University Bloomington
+2)chris Alexander- Indiana University Bloomington
+3)Kyle Kercher- Indiana University Bloomington
+4)Yongming Li- Indiana University Bloomington
+
+During a time of global uvcertainty, the value of the American College of sports Medicine's (ACSM's) Worldwide Survey of Fitness Trends has never been more essential to better understand consumer behavioer as a strategic approach into future ﬁtness offerings that drive business growth.Electronic survey from june 21 to auguest 2, 2021,sent to ﬁtness Australia registered exercise professionals and business members;a link also was shared on ﬁtness Australia various social media sites.Electronic survey from May 17 to july 25, 2021; electronic survey was disseminated to university.All survey were conducted electroniccally using either surveyMonkey or Google forms.Absolute data from all regions were ranked and sorted into the top 8 global health and ﬁtness trends for 2022.New to the trends this year, home gyms emerged as very popular country.
+
+4.A Web-service based Integrated Fitness and Diet Mobile Appication for Health Promotion
+
+Author's:
+1)Eliud Musumba Ayiro-MSc Distributed Technologies
+2)Robert Oboko-MSc Distributed Technologies
+
+A sedentary lifestyle, unhealthy food and work related stress are part and parcel of the lives of many people thus their wellbeing and consequently their quality of life is adversly affected. Accroding to a study conducted by(WHO, 2016) at least two million of deaths per year are a result of being obese. Metabolic disorders , some form of cancer, Osteoporosis, hypertension and type 2 diabetes are among the lifestyle diseases that are associated with increase of body mass and particularly fat mass(Linsay,et al., 2010). One of the type of exercises is resistance training which is deﬁned by (Hongu, et al., 2015) as any physical activity that causes the muscles to work against an additional force or weight.Diet quality according to (Childs,2018) is predominantly characterized by how strictly the diet aligns with either the mediterranean or western pattern.Khaning &Kyaw et .al (2019) identify the main characteristics of a distributed system are as listed.
